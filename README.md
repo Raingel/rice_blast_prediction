@@ -10,8 +10,8 @@ The following are brief descriptions of each model:
 - **BlastDT**: A decision tree model developed by Yi-Nian Chen from the Taiwan Agricultural Research Institute.
 - **BLASTAM**: A model developed by Mr. Koshimizu from Japan. 
     >   越水幸男. 1988. 「アメダス資料による葉いもち発生予察法」. https://agriknowledge.affrc.go.jp/RN/2030411788
-- **BlastTF**: A deep learning model developed by the Fungal Biology Laboratory at National Chung Hsing University. The neural network architecture uses the Transformer model.
-- **BlastGRU-TW**: A deep learning model developed by the Fungal Biology Laboratory at National Chung Hsing University. The neural network architecture uses the gated recurrent unit (GRU) model and is trained on the Taiwan dataset.
+- **BlastTF**: A deep learning model developed by the Mycology Laboratory at National Chung Hsing University. The neural network architecture uses the Transformer model.
+- **BlastGRU-TW**: A deep learning model developed by the Mycology Laboratory at National Chung Hsing University. The neural network architecture uses the gated recurrent unit (GRU) model and is trained on the Taiwan dataset.
     > Ou, J. H., Kuo, C. H., Wu, Y. F., Lin, G. C., Lee, M. H., Chen, R. K., ... & Chen, C. Y. (2023). Application-oriented deep learning model for early warning of rice blast in Taiwan. Ecological Informatics, 73, 101950. https://doi.org/10.1016/j.ecoinf.2022.101950
 ## File Structure
 The repository is structured as follows:
