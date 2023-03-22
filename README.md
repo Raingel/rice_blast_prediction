@@ -33,7 +33,7 @@ The repository is structured as follows:
 │   ├── ...
 ```
 
-The top-level directory contains four subdirectories, one for each model. Within each subdirectory are the CSV files containing the prediction results for each day.
+The data directory contains CSV files with four types of suffixes, one for each model. Within each CSV file are the prediction results for each day.
 
 ## Usage
 To use the prediction results, simply download the CSV file for the desired day and model. Each CSV file contains the predicted outcomes for a specific day.
